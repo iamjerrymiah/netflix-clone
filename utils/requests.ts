@@ -1,4 +1,5 @@
-const API_KEY = process.env.NEXT_PUBLIC_API_KEY
+// const API_KEY = process.env.NEXT_PUBLIC_API_KEY
+const API_KEY = 'ff18ea51a9fbc5f1fe482df3d81d2027'
 const BASE_URL = 'https://api.themoviedb.org/3'
 
 const requests = {
